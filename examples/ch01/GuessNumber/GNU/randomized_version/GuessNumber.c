@@ -8,7 +8,7 @@
 #include <time.h>
 
 
-#define MIN_NUMBER 1
+#define MIN_NUMBER 50
 const int MAX_NUMBER = 100;
 
 void guessGame(void); 
